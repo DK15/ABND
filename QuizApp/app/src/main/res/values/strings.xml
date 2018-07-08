@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="welcome_txt">Welcome to Kids Animal Quiz App</string>
+    <string name="edit_txt_hint">Enter your name:</string>
+    <string name="subheading_txt">Select correct type from below:</string>
+    <string name="quiz_question1">Lion is:</string>
+    <string name="animal_type1">Carnivore</string>
+    <string name="animal_type2">Herbivore</string>
+    <string name="animal_type3">Omnivore</string>
+    <string name="quiz_question2">Giraffe is:</string>
+    <string name="quiz_question3">Elephant is:</string>
+    <string name="quiz_question4">Bear is: (check all that apply) </string>
+    <string name="quiz_question5">Leopard is: </string>
+    <string name="quiz_question5_hint">Enter your answer here</string>
+    <string name="submit_button">Submit</string>
+    <string name="reset_button">Reset</string>
+    <string name="animal_na">Invertibrate</string>
+</resources>
