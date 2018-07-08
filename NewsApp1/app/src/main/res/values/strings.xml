@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="no_internet_msg">There is no internet connection</string>
+    <string name="default_text">No data to display.</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+    <string name="news_category_title">News Category</string>
+    <string name="news_all_title">All News</string>
+    <string name="business">Business</string>
+    <string name="science">Science</string>
+    <string name="sport">Sport</string>
+    <string name="technology">Technology</string>
+</resources>

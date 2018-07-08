@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="news_categories">
+        <item>@string/news_all_title</item>
+        <item>@string/business</item>
+        <item>@string/science</item>
+        <item>@string/sport</item>
+        <item>@string/technology</item>
+    </string-array>
+</resources>

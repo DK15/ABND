@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.example.android.newsapp1.MainActivity"
+        android:padding="16dp"
+        android:background="@color/mainScreenColor">
+
+    <TextView
+            style="@style/newsTitleTheme"
+            android:id="@+id/newsTitle"
+            android:textColor="@color/colorPrimaryDark" />
+
+    <TextView
+            style="@style/newsSectionTheme"
+            android:id="@+id/newsSection"
+            android:layout_below="@+id/newsTitle"
+            android:textColor="@color/colorSection" />
+
+    <TextView
+            style="@style/newsURLTheme"
+            android:id="@+id/newsUrl"
+            android:textColor="@color/colorSection"
+            android:layout_below="@+id/newsSection" />
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/newsAuthor"
+            android:textStyle="bold"
+            android:textColor="@color/colorSection"
+            android:layout_below="@+id/newsUrl" />
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/newsDate"
+            android:textStyle="bold"
+            android:textColor="@color/colorSection"
+            android:layout_below="@+id/newsAuthor" />
+
+</RelativeLayout>
+
