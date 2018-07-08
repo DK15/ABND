@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <string name="appWelcomeTxt">Welcome To Aurangabad</string>
+    <string name="buttonTxt">Let\'s take a tour</string>
+    <string name="attrOne">Bibi Ka Maqbara</string>
+    <string name="attrOneDesc">Bibi ka maqbara is a tomb and was commissioned by Aurangzeb\'s son Azam in memory of his mother. It bears
+        striking resemblance to famous Taj Mahal. This tomb is principal monument of Aurangabad.</string>
+    <string name="attrOneAddr">Address: Begumpura, Aurangabad,431004.</string>
+    <string name="attrTwo">Ajanta Ellora Caves</string>
+    <string name="attrTwoDesc">These caves are 29 rock cut Buddhist monuments which date from 2nd century. The paintings and rock cut sculptures are described as among the finest surviving examples of ancient Indian art.</string>
+    <string name="attrTwoAddr">Address: Ellora Cave Road, Ellora, Aurangabad,431005</string>
+    <string name="attrThree">Mhaismal</string>
+    <string name="attrThreeDesc">Mhaismal is a beautiful hill station in Aurangabad situated at an altitude of 1067 meters and is about 40km from the city. This hill station attracts visitors during monsoon when it is covered in greenery.</string>
+    <string name="attrFour">Bhadra Maruti Temple</string>
+    <string name="attrFourDesc">This is a temple devoted to Hindu deity Hanuman. Here the idol of Hanuman is portrayed in a reclining or sleeping posture. It is one of the only 3 places where Hanuman is represented in sleeping posture. People from city and nearby places walk to the temple to offer puja on Saturdays.</string>
+    <string name="attrFourAddr">Address: Khultabad, Golegaon,431101</string>
+    <string name="natParkOne">Siddharth Garden</string>
+    <string name="natParkOneDesc">Set in the heart of the city, Sidharth Garden is beautiful and well-known for housing wide variety of trees and shrubs. Covering a large area, it is a popular picnic spot. There is a small aquarium in the garden having variety of fishes. It has also a zoo having tigers, lions, leopards,fox, deer, hyena etc.</string>
+    <string name="natParkOneAddr">Address: Near Central Bus Stand, Aurangabad, 431005</string>
+    <string name="natParkTwo">Jayakwadi Dam</string>
+    <string name="natParkTwoDesc">Jayakwadi is one of the largest earthern dams in Asia. Its height is approx. 41.30 meters and length 9998 meters with total storage capacity of 2909 mcm. There are total 27 water gates for the dam.</string>
+    <string name="natParkTwoAddr">Address: North Jaikwadi Flyover,Sant Dynaneshwar Udyaan,Paithan, 431107</string>
+    <string name="natParkThree">University Hill</string>
+    <string name="natParkThreeDesc">This hill is a small hillside location and is famous for its serene and tranquil environment. The sunset from top of the hill is really a lovely sight. The visitor have to hike to reach top of the hill. Visitors get a panoramic view of entire Aurangabad city.</string>
+    <string name="natParkThreeAddr">Address: BAMU Campus, Aurangabad, 431005</string>
+    <string name="restOne">Latitude</string>
+    <string name="restOneDesc">All day dining restaurant is popular for its multi-cuisine and wellness menu.</string>
+    <string name="restOneAddr">Address: N12, Cidco,Rauza Bagh, Aurangabad, 431005</string>
+    <string name="restTwo">Madhuban</string>
+    <string name="restTwoDesc">Offers fine dine, lounge bar,open terrace,party lawn, kids zone. Tastefully refurbished to include latest in business and state of the art facilities.</string>
+    <string name="restTwoAddr">Address: 105, Beed bypass road, Near Datta Mandri, Aurangabad, 431005</string>
+    <string name="restThree">Te Amo</string>
+    <string name="restThreeDesc">A pure veg, multi-cuisine fine dine restaurant. It boasts of beautiful ambience alongwith experienced chefs and service personnel.</string>
+    <string name="restThreeAddr">Address: 4th floor, Khinvasara Goldplex, Akashwani Jalna Road, Aurangabad, 431005</string>
+    <string name="restFour">Thaat Baat</string>
+    <string name="restFourDesc">Veg thali restaurant famous for Rajasthani, Gujrati and Maharashtrian food.The place has festive look with real silver plates. The wait staff wears traditional attire with colored turbans.</string>
+    <string name="restFourAddr">Address: Near Vivekanand College, Samarth Nagar, Aurangabad, 431005</string>
+    <string name="tabOne">Places</string>
+    <string name="tabTwo">Parks</string>
+    <string name="tabThree">Food</string>
+    <string name="tabFour">Lodging</string>
+    <string name="stayOne">Vivanta By Taj</string>
+    <string name="stayOneDesc">Featuring fee wi-fi and restaurant, guests can enjoy on-site bar. A balcony and patio are featured
+        in certain rooms.This hotel also provides car rental.</string>
+    <string name="stayTwo">Rama International</string>
+    <string name="stayTwoDesc">Offers free private parking alongwith free wi-fi and a restaurant. Every room is air conditioned and
+    has flat screen TV. 24 hour front desk and hairdressers at the property.</string>
+    <string name="stayTwoAddr">Address: R-3,Chikalthana, Aurangabad-431210</string>
+    <string name="stayThree">Lemon Tree</string>
+    <string name="stayThreeDesc">Offers on-site restaurant and 24 hour front desk. Provides car rental service and nearest to
+        Aurangabad airport.</string>
+    <string name="stayThreeAddr">Address: R 7/2, Chikalthana, Aurangabad 431210.</string>
+
+
+</resources>
