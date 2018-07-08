@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:background="@color/mainColor"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="1">
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/fields_msg"
+            android:textStyle="italic"
+            android:textColor="@color/colorAccent"
+            android:id="@+id/textView" />
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="2dp">
+
+        <TextView
+                style="@style/editProductTheme"
+                android:id="@+id/product_label_tv"
+                android:text="@string/product_name"
+                android:textColor="@color/mainProductName" />
+
+        <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/edit_product_layout"
+                android:inputType="text"
+                android:maxLines="1"
+                android:padding="8dp" />
+    </LinearLayout>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+        <TextView
+                style="@style/editProductTheme"
+                android:id="@+id/price_label_tv"
+                android:text="@string/product_price"
+                android:textColor="@color/mainProductName" />
+
+        <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/edit_price_layout"
+                android:inputType="number"
+                android:maxLines="1"
+                android:padding="8dp" />
+    </LinearLayout>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+        <TextView
+                style="@style/editProductTheme"
+                android:id="@+id/qty_label_tv"
+                android:text="@string/product_quantity"
+                android:textColor="@color/mainProductName" />
+
+        <Button
+                android:layout_width="31dp"
+                android:layout_height="35dp"
+                android:text="@string/increment"
+                android:id="@+id/increment" />
+
+        <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/edit_qty_layout"
+                android:inputType="number"
+                android:maxLines="1"
+                android:padding="8dp"
+                android:layout_weight="0.41" />
+
+        <Button
+                android:layout_width="31dp"
+                android:layout_height="35dp"
+                android:text="@string/decrement"
+                android:id="@+id/decrement" />
+
+    </LinearLayout>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+        <TextView
+                style="@style/editProductTheme"
+                android:id="@+id/supp_label_tv"
+                android:text="@string/product_supplier_name"
+                android:textColor="@color/mainProductName" />
+
+        <EditText
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/edit_supplier_name"
+                android:inputType="text"
+                android:maxLines="1"
+                android:padding="8dp"
+                android:layout_weight="0.23" />
+    </LinearLayout>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+        <TextView
+                style="@style/editProductTheme"
+                android:id="@+id/phone_label_tv"
+                android:text="@string/product_supplier"
+                android:textColor="@color/mainProductName" />
+
+        <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/edit_phone_layout"
+                android:inputType="phone"
+                android:maxLines="1"
+                android:padding="8dp" />
+    </LinearLayout>
+
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/call"
+            android:padding="8dp"
+            android:id="@+id/call" />
+
+</LinearLayout>
